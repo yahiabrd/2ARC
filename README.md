@@ -1,3 +1,3 @@
 # 2arc
 
-Architecture project for my second year college
+Architecture project for my second year of college
